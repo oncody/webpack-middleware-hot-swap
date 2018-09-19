@@ -1,0 +1,16 @@
+{
+  "name": "webpack-middleware-hot-swap",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "Cody Smith",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "html-webpack-plugin": "latest",
+    "webpack": "latest",
+    "webpack-dev-middleware": "latest",
+    "webpack-hot-middleware": "latest"
+  }
+}
